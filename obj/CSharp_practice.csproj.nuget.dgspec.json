@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codes\\CSharp_practice\\CSharp_practice.csproj": {}
+    "D:\\codes\\dotnet_practice\\CSharp_practice.csproj": {}
   },
   "projects": {
-    "D:\\codes\\CSharp_practice\\CSharp_practice.csproj": {
+    "D:\\codes\\dotnet_practice\\CSharp_practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\CSharp_practice\\CSharp_practice.csproj",
+        "projectUniqueName": "D:\\codes\\dotnet_practice\\CSharp_practice.csproj",
         "projectName": "CSharp_practice",
-        "projectPath": "D:\\codes\\CSharp_practice\\CSharp_practice.csproj",
+        "projectPath": "D:\\codes\\dotnet_practice\\CSharp_practice.csproj",
         "packagesPath": "C:\\Users\\niseh\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\CSharp_practice\\obj\\",
+        "outputPath": "D:\\codes\\dotnet_practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\niseh\\AppData\\Roaming\\NuGet\\NuGet.Config"
