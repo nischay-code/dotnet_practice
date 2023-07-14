@@ -29,18 +29,27 @@
 
 
 //Type Conversions
-int i = 57;
-//implicit type conversions
-long l = i;
-//implicit type conversions
-float f = l;
-Console.WriteLine("Integer Value : " + i);
-Console.WriteLine("Long Value : " + l);
-Console.WriteLine("Float Value : " + f);
-double d = 12.234;
-//explicit type conversions
-int a = (int)d;
-Console.WriteLine("Value of a is " + a);
+// int i = 57;
+// //implicit type conversions
+// long l = i;
+// //implicit type conversions
+// float f = l;
+// Console.WriteLine("Integer Value : " + i);
+// Console.WriteLine("Long Value : " + l);
+// Console.WriteLine("Float Value : " + f);
+// double d = 12.234;
+// //explicit type conversions
+// int a = (int)d;
+// Console.WriteLine("Value of a is " + a);
+
+
+//Boxing and Unboxing
+int n = 2021;
+//boxing
+object obj = n;
+n = 500;
+Console.WriteLine("Value type value if n is " + n);
+Console.WriteLine("Object /Reference type of  obj is " + obj);
 
 
 
