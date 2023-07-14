@@ -37,7 +37,10 @@ float f = l;
 Console.WriteLine("Integer Value : " + i);
 Console.WriteLine("Long Value : " + l);
 Console.WriteLine("Float Value : " + f);
-
+double d = 12.234;
+//explicit type conversions
+int a = (int)d;
+Console.WriteLine("Value of a is " + a);
 
 
 
