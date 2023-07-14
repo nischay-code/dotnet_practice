@@ -48,8 +48,12 @@ int n = 2021;
 //boxing
 object obj = n;
 n = 500;
-Console.WriteLine("Value type value if n is " + n);
+Console.WriteLine("Value type value of n is " + n);
 Console.WriteLine("Object /Reference type of  obj is " + obj);
+//unboxing
+int i=(int)obj;
+Console.WriteLine("Value of object obj is " + obj);
+Console.WriteLine("Value of i is " + i);
 
 
 
