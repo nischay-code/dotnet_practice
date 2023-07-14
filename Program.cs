@@ -19,10 +19,41 @@
 
 
 //Variables and Constants
-const double pi = 3.14;  //constant declaration
-double r;
-r = 10;
-double area = pi * r * r;
-double circumference = 2 * pi * r;
-Console.WriteLine("The Area of Circle is {0}", area);
-Console.WriteLine("The Circumference of Circle is {0}", circumference);
+// const double pi = 3.14;  //constant declaration
+// double r;
+// r = 10;
+// double area = pi * r * r;
+// double circumference = 2 * pi * r;
+// Console.WriteLine("The Area of Circle is {0}", area);
+// Console.WriteLine("The Circumference of Circle is {0}", circumference);
+
+
+//Type Conversions
+int i = 57;
+//implicit type conversions
+long l = i;
+//implicit type conversions
+float f = l;
+Console.WriteLine("Integer Value : " + i);
+Console.WriteLine("Long Value : " + l);
+Console.WriteLine("Float Value : " + f);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
