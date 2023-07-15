@@ -130,11 +130,18 @@
 //         break;
 // }
 //ternary operator
-int num = 4;
-bool checkNum;
-checkNum = (num % 2 == 0);
-Console.WriteLine(checkNum);
+// int num = 4;
+// bool checkNum;
+// checkNum = (num % 2 == 0);
+// Console.WriteLine(checkNum);
 
+
+//  Looping Statement 
+// For Loop
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine(i);
+}
 
 
 
