@@ -1,5 +1,6 @@
-# dotnet commands
-## General
+#dotnet practice
+
+## General Commands
 - dotnet build	-Builds a .NET application.
 - dotnet build-server	-Interacts with servers started by a build.
 - dotnet clean	-Clean build outputs.
