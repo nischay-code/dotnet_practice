@@ -1,4 +1,4 @@
-#dotnet practice
+# dotnet practice
 
 ## General Commands
 - dotnet build	-Builds a .NET application.
